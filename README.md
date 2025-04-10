@@ -17,5 +17,4 @@ Este proyecto es una aplicación web desarrollada con **React**, **TypeScript** 
 ## 🚀 Deployment en Netlify
 https://precious-mooncake-1be31b.netlify.app/
 
-## Vista
-![vista]()
+
